@@ -8,7 +8,7 @@ In the past my iterations tried to do things like list, filter, etc. Now the API
 
 
 ## Characters
-1. Add a character via postigin to `api/character/add`
+1. Add a character via posting to `api/character/add`
 2. Delete a character via posting to `api/character/delete`
 
 # Go Layout
